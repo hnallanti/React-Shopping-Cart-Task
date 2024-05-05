@@ -1,5 +1,5 @@
 {
-  "name": "react-pre1",
+  "name": "React-Shopping-Cart-Task",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,6 +8,8 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
+    "homepage": "https://your-github-username.github.io/React-Shopping-Cart-Task"
+
   },
   "dependencies": {
     "react": "^18.2.0",
